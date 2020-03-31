@@ -1,2 +1,2 @@
 # phaseblaster
-Host site for Phase Blaster app info and privacy policy
+Host site for Phase Blaster app info and Privacy Policy
